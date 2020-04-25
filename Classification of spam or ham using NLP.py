@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  1 00:00:32 2019
 
-@author: madaa
-"""
 import pandas as pd
-
 import re
 import string
 import nltk
